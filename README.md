@@ -309,6 +309,7 @@ Tools for executing commands or interacting with local environments safely.
 
 | Repo | Notes |
 |------|-------|
+| [heeyo-life/skillboss-mcp](https://github.com/heeyo-life/skillboss-mcp) | One API key for 100+ AI services: Claude, GPT, Gemini, DeepSeek, images, video, and more. OpenAI-compatible. |
 | [askbudi/roundtable](https://github.com/askbudi/roundtable) | Multi-assistant MCP hub. |
 | [composiohq/rube](https://github.com/composiohq/rube) | 500+ app integrations. |
 | [julien040/anyquery](https://github.com/julien040/anyquery) | SQL over 40+ apps. |
