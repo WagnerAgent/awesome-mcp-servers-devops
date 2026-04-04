@@ -1,4 +1,5 @@
 # Awesome MCP Servers for DevOps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [ToolPipe MCP Server](https://github.com/COSAI-Labs/toolpipe-mcp-server) - 120+ developer utility tools including Dockerfile generation, docker-compose generation, CI/CD workflow generation, and infrastructure config tools via MCP.
 
 > A curated list of Model Context Protocol servers for DevOps workflows — infrastructure, CI/CD, monitoring, security, and cloud operations.
 
