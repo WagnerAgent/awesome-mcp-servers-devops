@@ -648,3 +648,19 @@ Requirements:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Wagner](https://www.trywagner.dev) has waived all copyright and related rights to this work.
+
+## 🤖 AI Coding Intelligence
+
+Tools for enhancing AI coding agents with memory, skills, and self-evolution.
+
+| | |
+|---|---|
+| **Repo** | [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain) |
+| **What it does** | Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. |
+| **Standout feature** | 🧬 Genetic algorithm self-evolution with predictive bug detection. |
+
+| | |
+|---|---|
+| **Repo** | [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) |
+| **What it does** | 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. |
+| **Standout feature** | 📦 One-click install of 50,000+ skills with visual dashboard. |
