@@ -207,7 +207,7 @@ Multi-tool support.
 | [weibaohui/k8m](https://github.com/weibaohui/k8m) | Multi-cluster management + UI. |
 | [weibaohui/kom](https://github.com/weibaohui/kom) | SDK + multi-cluster operations. |
 | [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) | Cluster health analysis and ops. |
-| [kubestellar/console](https://github.com/kubestellar/console) | AI-powered multi-cluster management dashboard with MCP server (kc-agent) for AI-assisted operations. |
+| [kubestellar/console](https://github.com/kubestellar/console) | Multi-cluster dashboard + MCP server (Go). AI-assisted ops across edge & cloud. |
 
 ### Tilt
 
