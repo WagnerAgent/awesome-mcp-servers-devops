@@ -381,6 +381,7 @@ GitOps deployment management via AI.
 | Repo | Notes |
 |------|-------|
 | [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) | MCP server with CI/CD tooling. |
+| [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) 🐍 | Auto-wrap any Click/typer Python CLI as an MCP server with zero code changes. |
 | [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) | CI/CD test server. |
 
 ### Build Tools
