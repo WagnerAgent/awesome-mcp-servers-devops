@@ -648,6 +648,7 @@ Requirements:
 - [awesome](https://github.com/sindresorhus/awesome)
 - [FastMCP (jlowin)](https://github.com/jlowin/fastmcp)
 - [FastMCP (punkpeye)](https://github.com/punkpeye/fastmcp)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## License
 
