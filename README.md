@@ -369,6 +369,14 @@ GitOps deployment management via AI.
 | **Maintainer** | 👥 Community |
 | **What it does** | Mobile CI/CD pipeline control. |
 
+### PGYER (Mobile Beta Distribution)
+
+| | |
+|---|---|
+| **Repo** | [PGYER/pgyer-mcp-server](https://github.com/PGYER/pgyer-mcp-server) |
+| **Maintainer** | 🎖️ Official ([PGYER](https://www.pgyer.com), operating since 2014) |
+| **What it does** | Upload iOS / Android / HarmonyOS builds (`.ipa` / `.apk` / `.hap`) to PGYER (蒲公英), China's leading mobile app beta-distribution platform. Fetch install links, QR codes, and version metadata from CI/CD. Published on npm as `pgyer-mcp-server`. |
+
 ### DevOps Visibility
 
 | Repo | Notes |
