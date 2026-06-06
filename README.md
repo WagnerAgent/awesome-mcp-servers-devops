@@ -544,6 +544,7 @@ Vulnerability scanning directly from your AI assistant.
 | [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) | CyberChef API access. |
 | [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) | Recon + domain analysis. |
 | [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | AES-256-GCM + Argon2id encrypted vault. Resolves `{{PLACEHOLDER}}` secrets so API keys never appear in prompts. |
+| [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) | **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** — Solana-native trust scoring MCP server for AI agents. Free preflight trust assessment + paid signed V5 x402 receipts via https://intel.twzrd.xyz |
 
 ## 📝 Collaboration
 
