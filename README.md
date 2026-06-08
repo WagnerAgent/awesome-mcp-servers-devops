@@ -502,6 +502,12 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) | Dynatrace monitoring integration. |
 | [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
 | [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
+### Agent Identity & Trust
+
+| Server | Description |
+|------|-------|
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Agent wallet trust scoring for DevOps pipelines. Verify AI agent identity before granting production access or logging agent actions. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
+
 
 ## 🔒 Security
 
