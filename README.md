@@ -329,6 +329,7 @@ Tools for executing commands or interacting with local environments safely.
 | [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) | One-click MCP wrapper. |
 | [Arch Tools](https://archtools.dev) | 53 production-ready AI tools via MCP with x402 USDC payments. |
 | [Not Human Search](https://nothumansearch.ai/mcp) | Search engine indexing 1,900+ agent-first tools (MCP servers, OpenAPI, llms.txt). Tools for `search_sites`, `verify_mcp` (live JSON-RPC probe), `list_categories`, and more. |
+| [The Stall](https://the-stall.intuitek.ai/mcp) | 208 pay-per-call data capabilities via x402 USDC micropayments — market intel, crypto/DeFi analytics, infrastructure probes, financial data, and more. No API keys. |
 
 ## 🚀 CI/CD
 
