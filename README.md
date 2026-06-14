@@ -168,6 +168,7 @@ Native Go implementation, no kubectl dependency.
 |---|---|
 | **Repo** | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) |
 | **Why choose it** | ⚡ Single binary, direct K8s API access, multi-cluster support. |
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 #### Azure/mcp-kubernetes
 
