@@ -309,6 +309,7 @@ Tools for executing commands or interacting with local environments safely.
 | [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) | Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. |
 | [claw-army/claude-node](https://github.com/claw-army/claude-node) | Python subprocess bridge for Claude Code CLI. |
 | [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy) | Spec-driven dev companion with persistent memory, adaptive change pipeline, and Clarity Gate. 32 tools, single Go binary. |
+| [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) | Local-first Work Model MCP server for coding agents: scored memory plus outcome-credited actions through `acc_retrieve` and `acc_act`, with `acc.db` kept on the user's machine. |
 
 
 ## 🔗 Aggregators
