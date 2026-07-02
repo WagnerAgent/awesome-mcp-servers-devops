@@ -373,6 +373,7 @@ GitOps deployment management via AI.
 
 | Repo | Notes |
 |------|-------|
+| [HarperZ9/telos](https://github.com/HarperZ9/telos) | Local-first MCP/CLI workbench for inspectable DevOps agent workflows: workspace maps, CI triage, action receipts, context packs, and operator verification doctors. |
 | [SBDI/mcp-devps-hub](https://github.com/SBDI/mcp-devps-hub) | End-to-end DevOps visibility. |
 | [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) | Cloud resource discovery and codification. |
 
