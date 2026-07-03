@@ -649,6 +649,7 @@ Requirements:
 - [awesome](https://github.com/sindresorhus/awesome)
 - [FastMCP (jlowin)](https://github.com/jlowin/fastmcp)
 - [FastMCP (punkpeye)](https://github.com/punkpeye/fastmcp)
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ## License
 
