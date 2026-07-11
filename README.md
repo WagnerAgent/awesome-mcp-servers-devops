@@ -232,6 +232,18 @@ Multi-tool support.
 | **Maintainer** | 🏷️ Docker (Official) |
 | **What it does** | 🐳 Image discovery, repository management, tag inspection. |
 
+### Nora
+
+Self-hosted control plane for deploying and operating OpenClaw and Hermes agent runtimes on Docker or Kubernetes.
+
+| | |
+|---|---|
+| **Repo** | [solomon2773/nora](https://github.com/solomon2773/nora) |
+| **Docs** | [Nora MCP server guide](https://noradocs.solomontsao.com/guides/mcp-server) |
+| **Maintainer** | 👥 Community |
+| **What it does** | Deploys agent runtimes, controls their lifecycle, and exposes fleet status, metrics, events, and per-agent cost through MCP. |
+| **Note** | 🛡️ Destructive deletion is disabled unless explicitly enabled. |
+
 ### Portainer
 
 | | |
