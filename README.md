@@ -527,6 +527,7 @@ Vulnerability scanning directly from your AI assistant.
 | **What it does** | 🔍 Static analysis, OWASP scanning, custom rule execution. |
 | **Remote** | 🌐 `https://mcp.semgrep.ai` (no auth required). |
 
+| [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Autonomous AI pentest platform for web, API, Active Directory and Kubernetes (GPL-3.0). |
 ### Community Security Servers
 
 | Repo | Notes |
