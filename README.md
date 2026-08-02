@@ -330,7 +330,7 @@ Tools for executing commands or interacting with local environments safely.
 | [Arch Tools](https://archtools.dev) | 53 production-ready AI tools via MCP with x402 USDC payments. |
 | [Not Human Search](https://nothumansearch.ai/mcp) | Search engine indexing 1,900+ agent-first tools (MCP servers, OpenAPI, llms.txt). Tools for `search_sites`, `verify_mcp` (live JSON-RPC probe), `list_categories`, and more. |
 | [The Stall](https://the-stall.intuitek.ai/mcp) | 208 pay-per-call data capabilities via x402 USDC micropayments — market intel, crypto/DeFi analytics, infrastructure probes, financial data, and more. No API keys. |
-| [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | Terminal-first, self-hosted AI gateway with an 8-tool Codex MCP server, credential-free Docker demo, and fail-closed real-provider guard. |
+| [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) | Terminal-first, self-hosted AI gateway with 9 governed MCP tools, provider-free prompt enhancement, a credential-free Docker demo, and a fail-closed real-provider guard. |
 
 ## 🚀 CI/CD
 
