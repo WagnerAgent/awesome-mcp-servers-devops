@@ -371,6 +371,16 @@ GitOps deployment management via AI.
 | **Maintainer** | 👥 Community |
 | **What it does** | Mobile CI/CD pipeline control. |
 
+### Ghost in the Droid (Android/iOS Device Control)
+
+| | |
+|---|---|
+| **Repo** | [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) |
+| **Maintainer** | 👥 Community |
+| **Install** | `pip install ghost-in-the-droid` |
+| **What it does** | Give any LLM agent a real Android or iPhone as its body. 62 MCP tools: tap, swipe, screenshot, screen-tree reading, app launch, on-device inference (llama.cpp/MediaPipe/MLX). Docker+KVM emulator pools for Android device farms in CI/CD pipelines. |
+| **Transports** | 📡 stdio |
+
 ### DevOps Visibility
 
 | Repo | Notes |
