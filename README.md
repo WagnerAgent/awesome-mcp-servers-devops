@@ -555,6 +555,18 @@ Vulnerability scanning directly from your AI assistant.
 | **What it does** | 🔍 Static analysis, OWASP scanning, custom rule execution. |
 | **Remote** | 🌐 `https://mcp.semgrep.ai` (no auth required). |
 
+### Palisade
+
+Email-authentication security and remediation for domains.
+
+| | |
+|---|---|
+| **Repo** | [palisadeemail/palisade-mcp](https://github.com/palisadeemail/palisade-mcp) |
+| **Docs** | [Palisade developer guide](https://developer.palisade.email/docs/guide) |
+| **Maintainer** | 🏷️ Palisade (Official) |
+| **What it does** | 🛡️ Manage DMARC, SPF, DKIM, BIMI, MTA-STS, DNS records, domain verification, and remediation tasks. |
+| **Access** | 💻 `npx -y @palisadeemail/mcp` with `PALISADE_API_KEY`; remote Streamable HTTP endpoint at `https://api.palisade.email/mcp` with Bearer authentication. |
+
 ### Community Security Servers
 
 | Repo | Notes |
