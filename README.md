@@ -384,6 +384,7 @@ GitOps deployment management via AI.
 |------|-------|
 | [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) | MCP server with CI/CD tooling. |
 | [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) | CI/CD test server. |
+| [joeyycli/constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) | GitHub Action + MCP server that lints CLAUDE.md-style agent constitution files for missing operational guardrails (spend limits, injection defense, escalation paths, secrets rules). |
 
 ### Build Tools
 
