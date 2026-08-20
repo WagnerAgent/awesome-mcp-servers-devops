@@ -533,6 +533,7 @@ Vulnerability scanning directly from your AI assistant.
 
 | Repo | Notes |
 |------|-------|
+| [zyx77550/sparda](https://github.com/zyx77550/sparda) | Proof-Carrying Code and deterministic security gate for AI agents. |
 | [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | Ghidra reverse engineering. |
 | [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) | Ghidra analysis tools. |
 | [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) | Shodan search + CVE data. |
