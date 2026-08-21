@@ -562,7 +562,7 @@ Email-authentication security and remediation for domains.
 | | |
 |---|---|
 | **Repo** | [palisadeemail/palisade-mcp](https://github.com/palisadeemail/palisade-mcp) |
-| **Docs** | [Palisade developer guide](https://developer.palisade.email/docs/guide) |
+| **Docs** | [Palisade MCP](https://www.palisade.email/mcp) |
 | **Maintainer** | 🏷️ Palisade (Official) |
 | **What it does** | 🛡️ Manage DMARC, SPF, DKIM, BIMI, MTA-STS, DNS records, domain verification, and remediation tasks. |
 | **Access** | 💻 `npx -y @palisadeemail/mcp` with `PALISADE_API_KEY`; remote Streamable HTTP endpoint at `https://api.palisade.email/mcp` with Bearer authentication. |
