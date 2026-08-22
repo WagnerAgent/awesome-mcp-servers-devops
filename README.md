@@ -529,8 +529,9 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | Repo | Notes |
 |------|-------|
 | [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) | Dynatrace monitoring integration. |
-| [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
-| [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
+| [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 APM, logs, and incident context for SRE workflows. |
+| [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring with 10 tools for monitor and incident management. Remote MCP (OAuth 2.0) plus stdio. |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter monitoring for release feedback, incident signals, brand mentions, and account activity. |
 
 ## 🔒 Security
 
