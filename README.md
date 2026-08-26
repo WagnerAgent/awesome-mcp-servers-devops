@@ -531,6 +531,7 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) | Dynatrace monitoring integration. |
 | [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
 | [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
+| [jabbawocky/statuscraft](https://github.com/jabbawocky/statuscraft) | Service status monitoring — 141 services covered (AWS, GitHub, Vercel, Stripe, Cloudflare, and more). Ask your AI assistant if a service is down before debugging your own code. Local stdio, no API key. |
 
 ## 🔒 Security
 
