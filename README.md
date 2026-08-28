@@ -346,6 +346,7 @@ Tools for executing commands or interacting with local environments safely.
 | [Not Human Search](https://nothumansearch.ai/mcp) | Search engine indexing 1,900+ agent-first tools (MCP servers, OpenAPI, llms.txt). Tools for `search_sites`, `verify_mcp` (live JSON-RPC probe), `list_categories`, and more. |
 | [The Stall](https://the-stall.intuitek.ai/mcp) | 208 pay-per-call data capabilities via x402 USDC micropayments — market intel, crypto/DeFi analytics, infrastructure probes, financial data, and more. No API keys. |
 | [Find MCP](https://github.com/agentage/find-mcp) | Search 17,000+ MCP servers from the official MCP registry, remote (Streamable HTTP, catalog.agentage.io/mcp) or stdio (npx @agentage/find-mcp), no auth needed for search. |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | CLI/MCP bridge that routes requests across 2,000+ AI models and APIs; supports 25 AI clients, six MCP tools, OAuth, and rollback. |
 
 ## 🚀 CI/CD
 
