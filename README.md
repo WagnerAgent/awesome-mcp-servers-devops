@@ -244,6 +244,18 @@ Self-hosted control plane for deploying and operating OpenClaw and Hermes agent 
 | **What it does** | Deploys agent runtimes, controls their lifecycle, and exposes fleet status, metrics, events, and per-agent cost through MCP. |
 | **Note** | 🛡️ Destructive deletion is disabled unless explicitly enabled. |
 
+### SandBase Harness
+
+Self-hosted MCP bridge for persistent agent sessions and backend-selectable execution sandboxes.
+
+| | |
+|---|---|
+| **Repo** | [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) |
+| **Maintainer** | 👥 Community |
+| **Docs** | [Installation and MCP configuration](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md) |
+| **What it does** | Exposes session, artifact, and lifecycle tools for agent workflows; supports local, Docker, Kubernetes, and self-hosted Worker sandbox backends. |
+| **Note** | 🛡️ Isolation properties depend on the selected backend and deployment configuration. |
+
 ### Portainer
 
 | | |
