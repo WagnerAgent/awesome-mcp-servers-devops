@@ -6,7 +6,13 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=WagnerAgent/awesome-mcp-servers-devops&type=date&legend=top-left)](https://www.star-history.com/#WagnerAgent/awesome-mcp-servers-devops&type=date&legend=top-left)
+<a href="https://www.star-history.com/?type=date&legend=top-left&repos=WagnerAgent%2Fawesome-mcp-servers-devops">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=WagnerAgent/awesome-mcp-servers-devops&type=date&theme=dark&legend=top-left&sealed_token=yBLCtv_DrWnlNKY5w3yt4hPyAPGZm1SpyeajjiZrZnZZFvXFdS8T-pWMSy7SG7kGUHqoNJfPHgQWzinCfbbDe9mc9E2ECp3F-9paUP_sWtjELR-RJyULS8Wtc9-TnKtf2VKoLCTKsZjFA4HFHJGp_yyUpHIHikz3n6LhyLmv8tCeaOa19Bee-BcBMxrh" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=WagnerAgent/awesome-mcp-servers-devops&type=date&legend=top-left&sealed_token=yBLCtv_DrWnlNKY5w3yt4hPyAPGZm1SpyeajjiZrZnZZFvXFdS8T-pWMSy7SG7kGUHqoNJfPHgQWzinCfbbDe9mc9E2ECp3F-9paUP_sWtjELR-RJyULS8Wtc9-TnKtf2VKoLCTKsZjFA4HFHJGp_yyUpHIHikz3n6LhyLmv8tCeaOa19Bee-BcBMxrh" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=WagnerAgent/awesome-mcp-servers-devops&type=date&legend=top-left&sealed_token=yBLCtv_DrWnlNKY5w3yt4hPyAPGZm1SpyeajjiZrZnZZFvXFdS8T-pWMSy7SG7kGUHqoNJfPHgQWzinCfbbDe9mc9E2ECp3F-9paUP_sWtjELR-RJyULS8Wtc9-TnKtf2VKoLCTKsZjFA4HFHJGp_yyUpHIHikz3n6LhyLmv8tCeaOa19Bee-BcBMxrh" />
+  </picture>
+</a>
 
 ## Contents
 
