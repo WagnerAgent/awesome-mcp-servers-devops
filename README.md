@@ -333,6 +333,7 @@ Tools for executing commands or interacting with local environments safely.
 | [oraios/serena](https://github.com/oraios/serena) | LSP-based coding agent. |
 | [ezyang/codemcp](https://github.com/ezyang/codemcp) | Simple coding agent MCP. |
 | [Wolfe-Jam/claude-faf-mcp](https://github.com/Wolfe-Jam/claude-faf-mcp) | Persistent project context tools. |
+| [contextstream/mcp-server](https://github.com/contextstream/mcp-server) | Shared project context for AI coding agents — hosted MCP with code search plus decisions, lessons, and plans. https://contextstream.io · https://mcp.contextstream.io/mcp |
 | [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) | VS Code workspace tooling. |
 | [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) | LeetCode problem access. |
 | [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) | LeetCode (global/China) access. |
