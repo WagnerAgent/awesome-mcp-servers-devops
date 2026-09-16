@@ -613,6 +613,7 @@ Email-authentication security and remediation for domains.
 | [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) | CVE-Search API. |
 | [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp) | 51 security testing tools for pentesting, vulnerability scanning, and security auditing. |
 | [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) | Security testing toolbox. |
+| [HostDeFi Token Risk API](https://hostdefi.com) | Hosted token-safety MCP — grades tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains; remote endpoint `https://hostdefi.com/api/v1/mcp`, no auth. |
 | [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) | CyberChef API access. |
 | [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) | Recon + domain analysis. |
 | [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | AES-256-GCM + Argon2id encrypted vault. Resolves `{{PLACEHOLDER}}` secrets so API keys never appear in prompts. |
