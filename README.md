@@ -94,6 +94,10 @@ Native GitLab integration via their Duo platform.
 | [oschina/gitee](https://github.com/oschina/gitee) | Gitee API integration. |
 | [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) | Reference local Git server implementation. |
 
+| [theluckystrike/mcp-time-tracker](https://github.com/theluckystrike/mcp-time-tracker) | Local-first time tracking MCP server: billable rates, project budgets, timesheet and CSV export, data in plain JSON on your machine. |
+| [theluckystrike/mcp-work-order](https://github.com/theluckystrike/mcp-work-order) | Work-order and job-card MCP server: assign jobs, track status, log materials and labour hours against each order. |
+| [theluckystrike/mcp-uptime-monitor](https://github.com/theluckystrike/mcp-uptime-monitor) | Uptime and endpoint monitoring MCP server: HTTP checks, latency history and incident windows, runnable locally. |
+
 ## 🏗️ Infrastructure as Code
 
 ### Terraform
