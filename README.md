@@ -342,6 +342,7 @@ Tools for executing commands or interacting with local environments safely.
 | [claw-army/claude-node](https://github.com/claw-army/claude-node) | Python subprocess bridge for Claude Code CLI. |
 | [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy) | Spec-driven dev companion with persistent memory, adaptive change pipeline, and Clarity Gate. 32 tools, single Go binary. |
 | [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) | Local-first Work Model MCP server for coding agents: scored memory plus outcome-credited actions through `acc_retrieve` and `acc_act`, with `acc.db` kept on the user's machine. |
+| [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Records a coding-agent session’s provider traffic — prompts, tool calls, responses — to a local trace and replays the run offline; exposes the trace library over MCP (`orca mcp`). |
 
 
 ## 🔗 Aggregators
@@ -712,7 +713,6 @@ Requirements:
 - ✅ Must include verified links.
 
 ## Resources
-- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 - [MCP Specification](https://modelcontextprotocol.io/)
 - [Anthropic MCP Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
