@@ -712,6 +712,7 @@ Requirements:
 - ✅ Must include verified links.
 
 ## Resources
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 - [MCP Specification](https://modelcontextprotocol.io/)
 - [Anthropic MCP Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
