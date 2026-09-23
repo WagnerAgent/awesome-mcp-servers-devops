@@ -646,6 +646,18 @@ Community alternative with Server/Data Center support: [sooperset/mcp-atlassian]
 | **Repo** | [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) |
 | **What it does** | Project workflows via PraisonAI. |
 
+### Orbit by Noveum
+
+Manage team issues, projects, sprints and operational documentation through workspace-scoped OAuth.
+
+| | |
+|---|---|
+| **Repo** | [Noveum/orbit](https://github.com/Noveum/orbit) |
+| **Maintainer** | 🏷️ Noveum (Official) |
+| **Endpoint** | [Hosted Streamable HTTP MCP](https://orbit.noveum.ai/mcp) |
+| **Docs** | [Connection and permissions guide](https://github.com/Noveum/orbit/blob/main/docs/mcp.md) |
+| **Requires** | Free Orbit account and workspace-scoped OAuth consent. |
+
 ### Service Desks
 
 | Repo | Notes |
