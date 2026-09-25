@@ -562,6 +562,18 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
 | [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
 
+### Noveum
+
+Inspect production AI traces and compare evaluation results during agent releases.
+
+| | |
+|---|---|
+| **Docs** | [Noveum MCP](https://noveum.ai/en/mcp) |
+| **Maintainer** | Noveum (Official) |
+| **What it does** | Query AI traces, manage evaluation datasets, and compare model results |
+| **Endpoint** | `https://noveum.ai/api/mcp` (Streamable HTTP) |
+| **Requires** | Noveum account with OAuth or a Bearer API key; free and paid plans |
+
 ## 🔒 Security
 
 ### Snyk
