@@ -356,6 +356,7 @@ Tools for executing commands or interacting with local environments safely.
 | [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) | MCP server registry. |
 | [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) | Turn web APIs into MCP. |
 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/packages/mcp-server) | 2,500+ API integrations. |
+| [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) | Aident Loadout — 1,000+ apps for any MCP agent via one remote server (`https://loadout.aident.ai/mcp`). |
 | [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) | Proxy + discovery layer. |
 | [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) | MCP load balancing. |
 | [waystation-ai/mcp](https://github.com/waystation-ai/mcp) | Connect MCP hosts to apps. |
