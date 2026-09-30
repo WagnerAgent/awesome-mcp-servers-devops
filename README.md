@@ -280,6 +280,16 @@ Self-hosted MCP bridge for persistent agent sessions and backend-selectable exec
 | **What it does** | Cluster management, app deployments, security, self-service. |
 | **Note** | Guardrails and permissions management included. |
 
+### Peon
+
+| | |
+|---|---|
+| **Repo** | [Peon-sh/Peon](https://github.com/Peon-sh/Peon) |
+| **Docs** | [Peon MCP](https://peon.sh/docs/mcp) |
+| **Maintainer** | Peon (community / MIT) |
+| **What it does** | Self-hosted Docker deployment platform MCP: projects, services, deploys, env, logs, backups under workspace RBAC. |
+| **Note** | Streamable HTTP at `/mcp`; shell exec tools intentionally not exposed. |
+
 ## 🖥️ Command Line & Local Ops
 
 Tools for executing commands or interacting with local environments safely.
