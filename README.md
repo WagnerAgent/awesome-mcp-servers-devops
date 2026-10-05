@@ -94,10 +94,6 @@ Native GitLab integration via their Duo platform.
 | [oschina/gitee](https://github.com/oschina/gitee) | Gitee API integration. |
 | [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) | Reference local Git server implementation. |
 
-| [theluckystrike/mcp-time-tracker](https://github.com/theluckystrike/mcp-time-tracker) | Local-first time tracking MCP server: billable rates, project budgets, timesheet and CSV export, data in plain JSON on your machine. |
-| [theluckystrike/mcp-work-order](https://github.com/theluckystrike/mcp-work-order) | Work-order and job-card MCP server: assign jobs, track status, log materials and labour hours against each order. |
-| [theluckystrike/mcp-uptime-monitor](https://github.com/theluckystrike/mcp-uptime-monitor) | Uptime and endpoint monitoring MCP server: HTTP checks, latency history and incident windows, runnable locally. |
-
 ## 🏗️ Infrastructure as Code
 
 ### Terraform
@@ -668,6 +664,16 @@ Community alternative with Server/Data Center support: [sooperset/mcp-atlassian]
 |---|---|
 | **Repo** | [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) |
 | **What it does** | Project workflows via PraisonAI. |
+
+| | |
+|---|---|
+| **Repo** | [theluckystrike/mcp-time-tracker](https://github.com/theluckystrike/mcp-time-tracker) |
+| **What it does** | Timers and timesheets with an hourly rate per project, exported as a report, CSV or invoice line items. Data stays in plain JSON on your machine. |
+
+| | |
+|---|---|
+| **Repo** | [theluckystrike/mcp-work-order](https://github.com/theluckystrike/mcp-work-order) |
+| **What it does** | Work orders and job cards for trades and field service: labour hours, parts and materials, and a completion report. |
 
 ### Orbit by Noveum
 
