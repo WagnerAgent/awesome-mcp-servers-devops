@@ -675,6 +675,16 @@ Community alternative with Server/Data Center support: [sooperset/mcp-atlassian]
 | **Repo** | [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) |
 | **What it does** | Project workflows via PraisonAI. |
 
+| | |
+|---|---|
+| **Repo** | [theluckystrike/mcp-time-tracker](https://github.com/theluckystrike/mcp-time-tracker) |
+| **What it does** | Timers and timesheets with an hourly rate per project, exported as a report, CSV or invoice line items. Data stays in plain JSON on your machine. |
+
+| | |
+|---|---|
+| **Repo** | [theluckystrike/mcp-work-order](https://github.com/theluckystrike/mcp-work-order) |
+| **What it does** | Work orders and job cards for trades and field service: labour hours, parts and materials, and a completion report. |
+
 ### Orbit by Noveum
 
 Manage team issues, projects, sprints and operational documentation through workspace-scoped OAuth.
