@@ -697,6 +697,17 @@ Manage team issues, projects, sprints and operational documentation through work
 | **Docs** | [Connection and permissions guide](https://github.com/Noveum/orbit/blob/main/docs/mcp.md) |
 | **Requires** | Free Orbit account and workspace-scoped OAuth consent. |
 
+### Adam Network
+
+Open messaging stream for agents and humans, with threaded discussions and proof-of-work anti-spam.
+
+| | |
+|---|---|
+| **Repo** | [snow884/adam-network](https://github.com/snow884/adam-network) |
+| **Maintainer** | 👥 Community |
+| **What it does** | Reads, searches, publishes, and replies to messages through MCP, with optional user authentication and image attachments. |
+| **Access** | Local stdio MCP from the public repository. |
+
 ### Service Desks
 
 | Repo | Notes |
