@@ -646,6 +646,7 @@ Email-authentication security and remediation for domains.
 | [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | AES-256-GCM + Argon2id encrypted vault. Resolves `{{PLACEHOLDER}}` secrets so API keys never appear in prompts. |
 | [ezequiellich44-cmd/MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard) | Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates with zero LLM in the decision path. Tamper-evident SHA-256 chained audit ledger; official MCP server on the Model Context Protocol Registry. |
 | [sunglasses-dev/sunglasses](https://github.com/sunglasses-dev/sunglasses) | Local scanner whose `scan_text` and `scan_file` tools check text and files for prompt injection, credential leaks and data exfiltration. |
+| [AffixIO/affixio-mcp](https://github.com/AffixIO/affixio-mcp) | Local stdio ACTION attestation MCP (`npx -y @affixio/mcp@0.1.0`). Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC. |
 
 ## 📝 Collaboration
 
