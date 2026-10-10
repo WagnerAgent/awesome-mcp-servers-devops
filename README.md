@@ -428,6 +428,18 @@ GitOps deployment management via AI.
 | **What it does** | Give any LLM agent a real Android or iPhone as its body. 62 MCP tools: tap, swipe, screenshot, screen-tree reading, app launch, on-device inference (llama.cpp/MediaPipe/MLX). Docker+KVM emulator pools for Android device farms in CI/CD pipelines. |
 | **Transports** | 📡 stdio |
 
+### Spinnaker
+
+Exposes a Spinnaker instance as an MCP server through the Gate API.
+
+| | |
+|---|---|
+| **Repo** | [GeiserX/spinnaker-mcp](https://github.com/GeiserX/spinnaker-mcp) |
+| **Docs** | [spinnaker-mcp docs](https://geiserx.github.io/spinnaker-mcp/) |
+| **Maintainer** | 👥 Community |
+| **What it does** | Applications, pipelines, executions, deployment strategies and infrastructure (37 tools), with a read-only toolset. |
+| **Transports** | 📡 stdio, HTTP. |
+
 ### DevOps Visibility
 
 | Repo | Notes |
