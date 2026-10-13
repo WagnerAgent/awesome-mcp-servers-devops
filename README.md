@@ -519,6 +519,7 @@ cohesivity.ai offers free agent native backend services. Anonymous account (no-s
 | [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) | VMware ESXi/vCenter management. |
 | [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) | Nutanix Prism Central integration. |
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Hosted OAuth MCP for creating website projects, deploying supported GitHub repositories, and inspecting deployment status and build logs. Remote endpoint: `https://shipvela.com/mcp`. |
+| [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | DC Hub — live data-center, power, grid, fiber and deal data for agents and site selection (DCPI across 300+ markets). Remote MCP: `https://dchub.cloud/mcp` (94 tools). |
 
 ## 📊 Observability
 
