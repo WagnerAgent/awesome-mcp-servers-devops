@@ -410,6 +410,17 @@ GitOps deployment management via AI.
 | **Maintainer** | 👥 Community |
 | **What it does** | Workflow runs, logs, and pipeline management. |
 
+### Latchkey
+
+Self-healing GitHub Actions runners with an official remote MCP server for coding agents.
+
+| | |
+|---|---|
+| **Docs** | [Latchkey MCP docs](https://latchkey.dev/documentation/connect-your-ai-agent) |
+| **Maintainer** | 🏷️ Latchkey (Official) |
+| **What it does** | Failure bundles (root cause, failing file, scrubbed logs) for runs self-heal could not fix, run status, log tails, workflow dispatch, one-off commands on fresh ephemeral runners. |
+| **Transports** | 📡 HTTP stream, remote only: `https://latchkey.dev/mcp` with a bearer API key. |
+
 ### Codemagic (Mobile CI/CD)
 
 | | |
