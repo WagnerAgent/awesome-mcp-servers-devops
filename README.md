@@ -327,6 +327,7 @@ Tools for executing commands or interacting with local environments safely.
 | [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) | Browser automation server. |
 | [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) | AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status. |
 | [vostride/agent-qa](https://github.com/vostride/agent-qa) | Natural-language web and mobile regression testing through MCP with persistent memory and self-healing execution. |
+| [SergiuPogor/curlshot-mcp](https://github.com/SergiuPogor/curlshot-mcp) | Hosted remote MCP server for CurlShot: agents screenshot any URL as PNG, JPEG, WebP or PDF on desktop or mobile devices, e.g. to check a deploy. |
 
 ## ⚙️ Code Execution
 
