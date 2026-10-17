@@ -537,6 +537,19 @@ cohesivity.ai offers free agent native backend services. Anonymous account (no-s
 | **Docs** | [Installation and client packages](https://github.com/cohesivity-org/cohesivity-plugin#readme) |
 | **Requires** | Node.js for the local MCP; OAuth sign-in for the remote management MCP at `https://cohesivity.ai/mcp/manage`. |
 
+### RowSafe
+
+Database protection and managed database operations for DevOps teams through local and remote MCP.
+
+| | |
+|---|---|
+| **Repo** | [rowsafe/rowsafe](https://github.com/rowsafe/rowsafe) |
+| **Maintainer** | RowSafe (Official) |
+| **What it does** | Inspect database health, manage backups and recovery workflows across supported engines, and provision RowSafe Cloud servers. |
+| **Docs** | [MCP reference](https://rowsafe.sh/docs/reference/mcp) |
+| **Requires** | CLI login or `ROWSAFE_API_KEY` for local `rowsafe mcp` (stdio), or OAuth/API-key authentication for `https://api.rowsafe.sh/mcp` (Streamable HTTP). |
+| **Note** | The agent, CLI and MCP server are Apache-2.0; the hosted RowSafe service is separate. Available actions depend on credentials, permissions and transport configuration. |
+
 ### Other Platforms
 
 | Repo | Notes |
