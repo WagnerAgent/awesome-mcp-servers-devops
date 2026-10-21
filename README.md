@@ -652,6 +652,18 @@ Email-authentication security and remediation for domains.
 | **What it does** | 🛡️ Manage DMARC, SPF, DKIM, BIMI, MTA-STS, DNS records, domain verification, and remediation tasks. |
 | **Access** | 💻 `npx -y @palisadeemail/mcp` with `PALISADE_API_KEY`; remote Streamable HTTP endpoint at `https://api.palisade.email/mcp` with Bearer authentication. |
 
+### NPMScan
+
+npm supply-chain checks before an agent installs or upgrades a dependency.
+
+| | |
+|---|---|
+| **Repo** | [salemalem/npmscan-mcp-plugin](https://github.com/salemalem/npmscan-mcp-plugin) |
+| **Docs** | [NPMScan MCP Docs](https://npmscan.com/docs/mcp) |
+| **Maintainer** | 🏷️ NPMScan (Official) |
+| **What it does** | 🔍 Malware, known-vulnerability (OSV, GitHub advisories, NVD with CISA KEV and EPSS), typosquat, maintainer-takeover and install-script checks; audits package.json, lockfiles, SBOMs, GitHub repos and PR dependency diffs; CI-ready PASS/WARN/FAIL gate. |
+| **Remote** | 🌐 `https://npmscan.com/api/mcp` (Streamable HTTP, no auth required, read-only). |
+
 ### Community Security Servers
 
 | Repo | Notes |
