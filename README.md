@@ -362,6 +362,7 @@ Tools for executing commands or interacting with local environments safely.
 
 | Repo | Notes |
 |------|-------|
+| [API.market MCP](https://api.market/mcp) | Official hosted API discovery and execution gateway for agent workflows: `https://api.market/api/mcp/gateway` (Streamable HTTP, OAuth or API key). Proprietary service; API-specific free and paid plans. |
 | [askbudi/roundtable](https://github.com/askbudi/roundtable) | Multi-assistant MCP hub. |
 | [composiohq/rube](https://github.com/composiohq/rube) | 500+ app integrations. |
 | [julien040/anyquery](https://github.com/julien040/anyquery) | SQL over 40+ apps. |
