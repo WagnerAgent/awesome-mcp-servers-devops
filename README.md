@@ -308,6 +308,8 @@ Tools for executing commands or interacting with local environments safely.
 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Local file/process control. |
 | [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) | Cisco pyATS network automation. |
 
+| [getremcp/remcp](https://github.com/getremcp/remcp) | OAuth-protected remote MCP for computers explicitly paired by their owner. Supports file operations, terminal commands, process diagnostics, Chromium and native desktop automation; tools can change device state. Hosted endpoint `https://remcp.site/mcp`, public npm client `@remcp/remcp`. |
+
 ## 🌐 Browser Automation
 
 | Repo | Notes |
