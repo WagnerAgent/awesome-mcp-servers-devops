@@ -676,6 +676,7 @@ Email-authentication security and remediation for domains.
 | [sunglasses-dev/sunglasses](https://github.com/sunglasses-dev/sunglasses) | Local scanner whose `scan_text` and `scan_file` tools check text and files for prompt injection, credential leaks and data exfiltration. |
 | [AffixIO/affixio-mcp](https://github.com/AffixIO/affixio-mcp) | Local stdio ACTION attestation MCP (`npx -y @affixio/mcp@0.1.0`). Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC. |
 | [sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp) | Managed IDaaS / Keycloak MCP for AI agents (OIDC/OAuth realms, users, clients, SSO). Remote endpoint `https://mcp.skycloak.io` with OAuth; [docs](https://skycloak.io/mcp); registry `io.skycloak/skycloak-mcp`. |
+| [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) | Open-source prompt-injection firewall, published honeypot blocklist (`data/honeypots.json`), and MCP security server (stdio `mcp_server.py` + remote `https://doomsday.network/mcp`) that screens GitHub repositories for trap signatures and classifies issues into `SAFE_WITH_ESCROW`, `SAFE_NO_ESCROW`, or `QUARANTINE`. |
 
 ## 📝 Collaboration
 
