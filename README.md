@@ -380,6 +380,8 @@ Tools for executing commands or interacting with local environments safely.
 | [The Stall](https://the-stall.intuitek.ai/mcp) | 208 pay-per-call data capabilities via x402 USDC micropayments — market intel, crypto/DeFi analytics, infrastructure probes, financial data, and more. No API keys. |
 | [Find MCP](https://github.com/agentage/find-mcp) | Search 17,000+ MCP servers from the official MCP registry, remote (Streamable HTTP, catalog.agentage.io/mcp) or stdio (npx @agentage/find-mcp), no auth needed for search. |
 | [Omega-JS-Stack/omega](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) | Omega MCP Router: local stdio router for many MCP servers, with cached tool schemas and upstreams started only on first use. |
+| [Speakeasy control plane](https://github.com/speakeasy-api/gram) | Governed MCP gateway with identity-based tool permissions, per-action security policies, and audit logs. |
+
 
 ## 🚀 CI/CD
 
