@@ -676,6 +676,7 @@ Email-authentication security and remediation for domains.
 | [sunglasses-dev/sunglasses](https://github.com/sunglasses-dev/sunglasses) | Local scanner whose `scan_text` and `scan_file` tools check text and files for prompt injection, credential leaks and data exfiltration. |
 | [AffixIO/affixio-mcp](https://github.com/AffixIO/affixio-mcp) | Local stdio ACTION attestation MCP (`npx -y @affixio/mcp@0.1.0`). Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC. |
 | [sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp) | Managed IDaaS / Keycloak MCP for AI agents (OIDC/OAuth realms, users, clients, SSO). Remote endpoint `https://mcp.skycloak.io` with OAuth; [docs](https://skycloak.io/mcp); registry `io.skycloak/skycloak-mcp`. |
+| [bernik-bot/ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Internet-wide cyber-health index MCP — query the current ICHI threat score/band (NORMAL→CRITICAL), recent critical-vulnerability advisories, and source health. Free, keyless, no auth. Run: `uvx --from git+https://github.com/bernik-bot/ichi-mcp ichi-mcp`. Maintained for ICHI's creator. |
 
 ## 📝 Collaboration
 
