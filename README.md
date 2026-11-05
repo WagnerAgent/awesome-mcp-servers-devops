@@ -94,6 +94,17 @@ Native GitLab integration via their Duo platform.
 | [oschina/gitee](https://github.com/oschina/gitee) | Gitee API integration. |
 | [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) | Reference local Git server implementation. |
 
+### Carbon Forge
+
+Source control for agents working in parallel, reached over MCP.
+
+| | |
+|---|---|
+| **Docs** | [carbonforge.dev/docs](https://carbonforge.dev/docs/p/guides/mcp-anonymous-access) |
+| **Maintainer** | 🏷️ 100monkeys.ai (Official) |
+| **What it does** | Agents open a lane, a set of patches over the trunk, instead of cloning, and land each change as one all-or-nothing changeset. Blame, grep, diff and history run on the server, and git is a projection pushed to GitHub fast-forward only. |
+| **Endpoint** | `https://carbonforge.dev/api/mcp` (Streamable HTTP; public workspaces read without a token, a bearer token to write) |
+
 ## 🏗️ Infrastructure as Code
 
 ### Terraform
