@@ -307,6 +307,7 @@ Tools for executing commands or interacting with local environments safely.
 | [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) | Safe local Python execution. |
 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Local file/process control. |
 | [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) | Cisco pyATS network automation. |
+| [Nova Terminal Command (CIVAI)](https://github.com/civai-technologies/terminal-command-agent-mcp-by-nova-civai) | Hosted remote MCP (Streamable HTTP) to run shell commands; Nova account required. |
 
 ## 🌐 Browser Automation
 
@@ -336,6 +337,7 @@ Tools for executing commands or interacting with local environments safely.
 | [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) | Secure JS/Python sandbox. |
 | [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) | Node.js Docker sandbox. |
 | [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) | Access APIs from OpenAPI specs. |
+| [Nova Code Interpreter (CIVAI)](https://github.com/civai-technologies/code-interpreter-agent-mcp-by-nova-civai) | Hosted remote MCP (Streamable HTTP) sandbox for code execution; Nova account required. |
 
 ## 🤖 Coding Agents
 
