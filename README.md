@@ -576,6 +576,7 @@ Database protection and managed database operations for DevOps teams through loc
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Hosted OAuth MCP for creating website projects, deploying supported GitHub repositories, and inspecting deployment status and build logs. Remote endpoint: `https://shipvela.com/mcp`. |
 | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | DC Hub — live data-center, power, grid, fiber and deal data for agents and site selection (DCPI across 300+ markets). Remote MCP: `https://dchub.cloud/mcp` (94 tools). |
 | [deed.page](https://deed.page/docs) | Static hosting for agents: publish an HTML file or static folder (docs, reports, previews) to a permanent public URL and update it in place with an owner token. No account on the free plan; REST API, [skill](https://github.com/f-o-x11/deed-page-skill). Remote MCP: `https://deed.page/mcp` (24 tools). |
+| [gpunz/gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | gpu.nz GPU cloud: find GPU servers with live prices, estimate VRAM, launch, monitor and stop ComfyUI, Ollama or vLLM servers billed by the minute. Remote MCP: `https://gpu.nz/mcp` (browsing needs no key, renting needs an API key). |
 
 ## 📊 Observability
 
@@ -721,6 +722,7 @@ npm supply-chain checks before an agent installs or upgrades a dependency.
 | [AffixIO/affixio-mcp](https://github.com/AffixIO/affixio-mcp) | Local stdio ACTION attestation MCP (`npx -y @affixio/mcp@0.1.0`). Tools: `attest_action`, `verify_action`, `gate_tool_call`. PII stays on the host; not KYC. |
 | [sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp) | Managed IDaaS / Keycloak MCP for AI agents (OIDC/OAuth realms, users, clients, SSO). Remote endpoint `https://mcp.skycloak.io` with OAuth; [docs](https://skycloak.io/mcp); registry `io.skycloak/skycloak-mcp`. |
 | [bernik-bot/ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Internet-wide cyber-health index MCP — query the current ICHI threat score/band (NORMAL→CRITICAL), recent critical-vulnerability advisories, and source health. Free, keyless, no auth. Run: `uvx --from git+https://github.com/bernik-bot/ichi-mcp ichi-mcp`. Maintained for ICHI's creator. |
+| [Safeguard](https://safeguard.sh/mcp) | Hosted remote MCP server (OAuth) for software supply chain security: look up projects, SBOMs, findings and vulnerabilities with EPSS and KEV; remote endpoint `https://mcp.safeguard.sh/mcp`. |
 
 ## 📝 Collaboration
 
