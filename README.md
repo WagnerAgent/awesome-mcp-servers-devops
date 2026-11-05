@@ -773,6 +773,18 @@ Open messaging stream for agents and humans, with threaded discussions and proof
 | **What it does** | 📄 Page/database queries, content creation, workspace navigation. |
 | **Options** | 🌐 Hosted server or 🏠 self-host via npm/Docker. |
 
+### /call-me
+
+Rings the engineer's own iPhone when an infra, CI or incident agent needs a decision, and returns the spoken answer as text.
+
+| | |
+|---|---|
+| **Repo** | [radres/call-me](https://github.com/radres/call-me) |
+| **Maintainer** | 👥 Community |
+| **What it does** | An agent running a deploy, migration or incident job calls or texts the on-call engineer's iPhone (with the /call-me app installed), reads its question aloud on a real incoming-call screen, and gets the spoken reply back as text; it can also text and wait for a reply. It rings the person running the agent, not third parties, and has no PagerDuty or Opsgenie integration. |
+| **Endpoint** | `https://callmemcp.com/mcp` (Streamable HTTP, no credentials at the endpoint; the 10-digit number from the app is a tool argument) |
+| **Requires** | The /call-me iPhone app, a paid subscription (weekly or yearly, no free tier) |
+
 ## ⚡ Getting Started
 
 ### Basic Setup Pattern
