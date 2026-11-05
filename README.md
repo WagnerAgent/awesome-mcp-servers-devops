@@ -544,6 +544,7 @@ cohesivity.ai offers free agent native backend services. Anonymous account (no-s
 
 | Repo | Notes |
 |------|-------|
+| [mrhy7176/cloudgpu-mcp](https://github.com/mrhy7176/cloudgpu-mcp) | CloudGPU (official). Lets an AI agent rent a GPU by the minute, run commands and background jobs, download results and destroy the instance. The same API key works with CloudGPU's OpenAI-compatible model API. Local stdio: `npx -y cloudgpu-mcp`. |
 | [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) | VMware ESXi/vCenter management. |
 | [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) | Nutanix Prism Central integration. |
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Hosted OAuth MCP for creating website projects, deploying supported GitHub repositories, and inspecting deployment status and build logs. Remote endpoint: `https://shipvela.com/mcp`. |
