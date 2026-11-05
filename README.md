@@ -495,6 +495,7 @@ AWS provides a collection of MCP servers for their services.
 | Repo | Notes |
 |------|-------|
 | [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) | AWS CLI-based MCP server. |
+| [Dynobase](https://dynobase.dev/dynamodb-mcp-server/) | DynamoDB: local MCP server built into the Dynobase desktop app (paid, 7-day trial). Lists tables, describes schemas and runs Scan, Query and PartiQL SELECT through your AWS profiles; read-only unless writes are enabled. |
 
 ### Azure
 
