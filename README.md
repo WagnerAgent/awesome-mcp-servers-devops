@@ -318,6 +318,7 @@ Tools for executing commands or interacting with local environments safely.
 | [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) | Safe local Python execution. |
 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | Local file/process control. |
 | [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) | Cisco pyATS network automation. |
+| [getremcp/remcp](https://github.com/getremcp/remcp) | OAuth-protected remote MCP for computers explicitly paired by their owner. Supports file operations, terminal commands, process diagnostics, Chromium and native desktop automation; tools can change device state. Hosted endpoint `https://remcp.site/mcp`, public npm client `@remcp/remcp`. |
 | [Nova Terminal Command (CIVAI)](https://github.com/civai-technologies/terminal-command-agent-mcp-by-nova-civai) | Hosted remote MCP (Streamable HTTP) to run shell commands; Nova account required. |
 
 ## 🌐 Browser Automation
@@ -339,6 +340,7 @@ Tools for executing commands or interacting with local environments safely.
 | [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) | Browser automation server. |
 | [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) | AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status. |
 | [vostride/agent-qa](https://github.com/vostride/agent-qa) | Natural-language web and mobile regression testing through MCP with persistent memory and self-healing execution. |
+| [SergiuPogor/CurlShot](https://github.com/SergiuPogor/CurlShot) | Hosted remote MCP server for CurlShot: agents screenshot any URL as PNG, JPEG, WebP or PDF on desktop or mobile devices, e.g. to check a deploy. |
 
 ## ⚙️ Code Execution
 
