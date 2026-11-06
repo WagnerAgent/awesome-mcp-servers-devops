@@ -725,6 +725,7 @@ npm supply-chain checks before an agent installs or upgrades a dependency.
 | [sky-cloak/skycloak-mcp](https://github.com/sky-cloak/skycloak-mcp) | Managed IDaaS / Keycloak MCP for AI agents (OIDC/OAuth realms, users, clients, SSO). Remote endpoint `https://mcp.skycloak.io` with OAuth; [docs](https://skycloak.io/mcp); registry `io.skycloak/skycloak-mcp`. |
 | [bernik-bot/ichi-mcp](https://github.com/bernik-bot/ichi-mcp) | Internet-wide cyber-health index MCP — query the current ICHI threat score/band (NORMAL→CRITICAL), recent critical-vulnerability advisories, and source health. Free, keyless, no auth. Run: `uvx --from git+https://github.com/bernik-bot/ichi-mcp ichi-mcp`. Maintained for ICHI's creator. |
 | [Safeguard](https://safeguard.sh/mcp) | Hosted remote MCP server (OAuth) for software supply chain security: look up projects, SBOMs, findings and vulnerabilities with EPSS and KEV; remote endpoint `https://mcp.safeguard.sh/mcp`. |
+| [Frank-Masciopinto/ironheights](https://github.com/Frank-Masciopinto/ironheights) | Open-source static scanner for OpenClaw/ClawHub skills (prompt injection, credential reads, remote-exec installs, persistence) plus MCP mode (`npx ironheights` / `ironheights mcp`); early-stage, rule-based. |
 
 ## 📝 Collaboration
 
