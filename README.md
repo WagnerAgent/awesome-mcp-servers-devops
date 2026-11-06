@@ -639,6 +639,18 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 | [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
 | [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) | Uptime monitoring — 10 tools for monitor/incident management. Remote MCP (OAuth 2.0) + stdio. |
 
+### Skald
+
+Self-hosted web analytics from the server access log, reachable over MCP.
+
+| | |
+|---|---|
+| **Repo** | [spcaeo/skald](https://github.com/spcaeo/skald) |
+| **Docs** | [MCP guide](https://skaldanalytics.com/docs/help/mcp.md) |
+| **Maintainer** | 👥 Community (Space-O Technologies) |
+| **What it does** | Reads verified traffic figures so an agent can ask about visits, AI-assistant page fetches, crawlers, scanners, comparisons, and withheld days. Mostly read-only; self-hosted under the Elastic License 2.0 (source-available). |
+| **Endpoint** | Self-hosted `https://<your-skald>/traffic-mcp` (streamable HTTP + stdio); API-key auth |
+
 ### Noveum
 
 Inspect production AI traces and compare evaluation results during agent releases.
