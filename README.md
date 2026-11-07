@@ -492,6 +492,7 @@ Exposes a Spinnaker instance as an MCP server through the Gate API.
 | Repo | Notes |
 |------|-------|
 | [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) | Maven and build tooling. |
+| [PabloCirre/kaijuconverter-mcp](https://github.com/PabloCirre/kaijuconverter-mcp) | Universal format conversion & asset processing server for CI/CD pipelines (documents, images, datasets, audio). |
 | [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ## ☁️ Cloud Platforms
