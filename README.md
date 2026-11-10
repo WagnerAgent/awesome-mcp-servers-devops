@@ -486,6 +486,7 @@ Exposes a Spinnaker instance as an MCP server through the Gate API.
 | [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) | CI/CD test server. |
 | [joeyycli/constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) | GitHub Action + MCP server that lints CLAUDE.md-style agent constitution files for missing operational guardrails (spend limits, injection defense, escalation paths, secrets rules). |
 | [MohammadHijjawi97/since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) | GitHub Action + MCP server that lists the APIs of pinned Python dependencies that changed after a coding model's training cutoff; with `check-notes: true` it fails the job when the AGENTS.md notes no longer match the lockfile. |
+| [emirmrkaljevic/behave](https://github.com/emirmrkaljevic/behave) | Records how a CLI behaves (stdout, stderr, exit code per flag and input) as YAML golden tests and replays them in CI or against a rewrite, with JUnit output. `behave mcp` exposes probing, adding cases and diffing over stdio. |
 
 ### Build Tools
 
