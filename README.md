@@ -399,6 +399,7 @@ Tools for executing commands or interacting with local environments safely.
 | [Find MCP](https://github.com/agentage/find-mcp) | Search 17,000+ MCP servers from the official MCP registry, remote (Streamable HTTP, catalog.agentage.io/mcp) or stdio (npx @agentage/find-mcp), no auth needed for search. |
 | [Omega-JS-Stack/omega](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) | Omega MCP Router: local stdio router for many MCP servers, with cached tool schemas and upstreams started only on first use. |
 | [Speakeasy control plane](https://github.com/speakeasy-api/gram) | Governed MCP gateway with identity-based tool permissions, per-action security policies, and audit logs. |
+| [Agent Coach (Upskill)](https://upskill.coach/docs/mcp) | Discovery server for vetted agent skills and MCP servers: `search_library` and `get_library_item` over a curated catalog of 118 items, each security-scanned before listing. Remote at `https://upskill.coach/mcp` (Streamable HTTP, no OAuth; search needs no key). Maintained by Avatar 8 LLC. |
 
 
 ## 🚀 CI/CD
