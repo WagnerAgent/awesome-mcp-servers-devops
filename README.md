@@ -583,6 +583,7 @@ Database protection and managed database operations for DevOps teams through loc
 | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | DC Hub — live data-center, power, grid, fiber and deal data for agents and site selection (DCPI across 300+ markets). Remote MCP: `https://dchub.cloud/mcp` (94 tools). |
 | [deed.page](https://deed.page/docs) | Static hosting for agents: publish an HTML file or static folder (docs, reports, previews) to a permanent public URL and update it in place with an owner token. No account on the free plan; REST API, [skill](https://github.com/f-o-x11/deed-page-skill). Remote MCP: `https://deed.page/mcp` (24 tools). |
 | [gpunz/gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | gpu.nz GPU cloud: find GPU servers with live prices, estimate VRAM, launch, monitor and stop ComfyUI, Ollama or vLLM servers billed by the minute. Remote MCP: `https://gpu.nz/mcp` (browsing needs no key, renting needs an API key). |
+| [connormatthewdouglas/agent-work-stack-deals](https://github.com/connormatthewdouglas/agent-work-stack-deals) | Lantern Works — free, read-only, keyless MCP for comparing GPU rental prices across providers. Prices are refreshed regularly, with each price's age shown, and job-cost estimates are included. Local stdio: `uvx lantern-works-deals-mcp`. Hosted: `https://lantern-works-mcp.lantern-works.workers.dev/mcp?ref=fg-wagnerdevops`. |
 
 ## 📊 Observability
 
