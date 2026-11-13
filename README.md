@@ -718,6 +718,17 @@ npm supply-chain checks before an agent installs or upgrades a dependency.
 | **What it does** | 🔍 Malware, known-vulnerability (OSV, GitHub advisories, NVD with CISA KEV and EPSS), typosquat, maintainer-takeover and install-script checks; audits package.json, lockfiles, SBOMs, GitHub repos and PR dependency diffs; CI-ready PASS/WARN/FAIL gate. |
 | **Remote** | 🌐 `https://npmscan.com/api/mcp` (Streamable HTTP, no auth required, read-only). |
 
+### OffSeq Threat Radar
+
+Vulnerability intelligence for agents and CI: what to patch first, and why.
+
+| | |
+|---|---|
+| **Docs** | [Radar MCP Docs](https://radar.offseq.com/api-docs?tab=mcp) |
+| **Maintainer** | 🏷️ OffSeq (Official) |
+| **What it does** | 🔍 CVE search with CISA KEV, EPSS and exploit status; SBOM and lockfile scans; patch-order ranking for a CVE list; IOC checks; findings for monitored hosts. Listed in the official MCP Registry as `com.offseq/radar`. |
+| **Remote** | 🌐 `https://radar.offseq.com/mcp` (Streamable HTTP, `X-API-Key` header; free API key). |
+
 ### Community Security Servers
 
 | Repo | Notes |
