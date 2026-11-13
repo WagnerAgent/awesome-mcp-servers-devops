@@ -473,6 +473,17 @@ Exposes a Spinnaker instance as an MCP server through the Gate API.
 | **What it does** | Applications, pipelines, executions, deployment strategies and infrastructure (37 tools), with a read-only toolset. |
 | **Transports** | 📡 stdio, HTTP. |
 
+### Buddy
+
+Official remote MCP server for Buddy, the agentic cloud.
+
+| | |
+|---|---|
+| **Docs** | [Buddy MCP docs](https://buddy.works/docs/ai-agents/mcp) |
+| **Maintainer** | 🏷️ Buddy (Official) |
+| **What it does** | Triggers and monitors pipelines, manages deployments across environments, creates sandboxes, publishes packages, routes domains, and reads build output and logs. |
+| **Transports** | 📡 HTTP, remote: `https://mcp.buddy.works/mcp` (EU and Asia endpoints too), with OAuth login or a bearer token. `bdy mcp` in the Buddy CLI proxies to the same server. |
+
 ### DevOps Visibility
 
 | Repo | Notes |
