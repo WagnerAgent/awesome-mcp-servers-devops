@@ -896,6 +896,7 @@ Requirements:
 - [awesome](https://github.com/sindresorhus/awesome)
 - [FastMCP (jlowin)](https://github.com/jlowin/fastmcp)
 - [FastMCP (punkpeye)](https://github.com/punkpeye/fastmcp)
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public remote MCP server for 1,700+ US and Canadian live-music venues
 
 ## License
 
