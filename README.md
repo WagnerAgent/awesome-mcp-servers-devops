@@ -573,6 +573,17 @@ Database protection and managed database operations for DevOps teams through loc
 | **Requires** | CLI login or `ROWSAFE_API_KEY` for local `rowsafe mcp` (stdio), or OAuth/API-key authentication for `https://api.rowsafe.sh/mcp` (Streamable HTTP). |
 | **Note** | The agent, CLI and MCP server are Apache-2.0; the hosted RowSafe service is separate. Available actions depend on credentials, permissions and transport configuration. |
 
+### NodeRings
+
+Remote MCP server for a marketplace and console that discovers, deploys, and manages compute across independent hosting providers.
+
+| | |
+|---|---|
+| **Docs** | [NodeRings MCP](https://docs.noderings.com/docs/client-guides/mcp) |
+| **Endpoint** | https://mcp.noderings.com/mcp |
+| **Maintainer** | 🏷️ NodeRings (Official) |
+| **What it does** | Discover, deploy, and manage compute infrastructure through MCP tools |
+
 ### Other Platforms
 
 | Repo | Notes |
