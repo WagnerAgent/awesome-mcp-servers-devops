@@ -718,6 +718,19 @@ npm supply-chain checks before an agent installs or upgrades a dependency.
 | **What it does** | 🔍 Malware, known-vulnerability (OSV, GitHub advisories, NVD with CISA KEV and EPSS), typosquat, maintainer-takeover and install-script checks; audits package.json, lockfiles, SBOMs, GitHub repos and PR dependency diffs; CI-ready PASS/WARN/FAIL gate. |
 | **Remote** | 🌐 `https://npmscan.com/api/mcp` (Streamable HTTP, no auth required, read-only). |
 
+### IPGeolocation.io MCP Server
+
+Investigate IP addresses from access logs, firewall alerts and failed sign-ins.
+
+| | |
+|---|---|
+| **Repo** | [IPGeolocation/ipgeolocation-io-mcp](https://github.com/IPGeolocation/ipgeolocation-io-mcp) |
+| **Maintainer** | 🏷️ IPGeolocation.io (Official) |
+| **What it does** | Look up IP geolocation, company information, ASN and network data, and abuse contacts. Check whether an IP is associated with a VPN, proxy, Tor, bots, hosting or spam. |
+| **Other tools** | Time zones, astronomy, currency data and user-agent parsing. |
+| **Access** | Run locally with Node.js 22+ or connect to `https://mcp.ipgeolocation.io/mcp` with an API key. Locally, `get_my_ip` works without a key. |
+| **Docs** | [Installation and tool guide](https://ipgeolocation.io/integrations/ipgeolocation-io-mcp) |
+
 ### Community Security Servers
 
 | Repo | Notes |
