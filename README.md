@@ -671,6 +671,19 @@ Inspect production AI traces and compare evaluation results during agent release
 | **Endpoint** | `https://noveum.ai/api/mcp` (Streamable HTTP) |
 | **Requires** | Noveum account with OAuth or a Bearer API key; free and paid plans |
 
+### LogBrew
+
+Investigate production errors, logs, and traces from any AI agent, and triage the issues they group into.
+
+| | |
+|---|---|
+| **Repo** | [LogBrewCo/mcp](https://github.com/LogBrewCo/mcp) |
+| **Docs** | [Connect an AI agent with MCP](https://docs.logbrew.co/guides/mcp) |
+| **Maintainer** | LogBrew (Official) |
+| **What it does** | Reads issues, logs, traces, spans, metrics, and releases. With the separate `write` scope, it resolves, reopens, archives, prioritizes, and assigns issues. Billing, members, and account settings stay out of reach. |
+| **Endpoint** | `https://logbrew.co/mcp` (Streamable HTTP) |
+| **Requires** | LogBrew account with OAuth; free and paid plans |
+
 ## 🔒 Security
 
 ### Snyk
