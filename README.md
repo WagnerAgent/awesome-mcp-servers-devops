@@ -671,6 +671,19 @@ Inspect production AI traces and compare evaluation results during agent release
 | **Endpoint** | `https://noveum.ai/api/mcp` (Streamable HTTP) |
 | **Requires** | Noveum account with OAuth or a Bearer API key; free and paid plans |
 
+### Runheed
+
+Error tracking your coding agent can read: search production errors and resolve them with the fixing commit.
+
+| | |
+|---|---|
+| **Repo** | [getrunheed/runheed-plugin](https://github.com/getrunheed/runheed-plugin) |
+| **Docs** | [MCP server](https://runheed.com/mcp-server?ref=awesome-mcp-servers-devops) |
+| **Maintainer** | Runheed (Official) |
+| **What it does** | Search and filter error groups, read stack traces, breadcrumbs and trends, then resolve or ignore an error with a note naming the fixing commit. Not an APM: no tracing or session replay. |
+| **Endpoint** | `https://runheed.com/api/mcp` (Streamable HTTP) |
+| **Requires** | Runheed account via OAuth or an API key; paid plans, 7-day trial |
+
 ## 🔒 Security
 
 ### Snyk
