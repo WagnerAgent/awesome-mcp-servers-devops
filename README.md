@@ -889,6 +889,7 @@ Requirements:
 ## Resources
 
 - [MCP Specification](https://modelcontextprotocol.io/)
+- [aqx-shipping-rates-mcp](https://github.com/AQXLOGISTICS/aqx-shipping-rates-mcp) - Real-time international air freight quotes, volumetric weight (`L×W×H / 5000`), and customs de minimis rules across 15 trade corridors ([OpenAPI 3.0.3](https://aqxlogistics.com/developers)).
 - [Anthropic MCP Documentation](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
 - [MCP Reference Servers](https://github.com/modelcontextprotocol/servers)
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
