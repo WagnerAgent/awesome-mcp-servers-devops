@@ -747,6 +747,7 @@ npm supply-chain checks before an agent installs or upgrades a dependency.
 | [Safeguard](https://safeguard.sh/mcp) | Hosted remote MCP server (OAuth) for software supply chain security: look up projects, SBOMs, findings and vulnerabilities with EPSS and KEV; remote endpoint `https://mcp.safeguard.sh/mcp`. |
 | [Agency Check](https://github.com/CyberStrategy1/agency-check) | Hosted remote MCP (OAuth/Google) that gives a second look before an AI agent buys, sends, books, shares, signs up, or connects an app. Remote endpoint `https://agency-check.app/mcp`; site https://agency-check.app. |
 | [Frank-Masciopinto/ironheights](https://github.com/Frank-Masciopinto/ironheights) | Open-source static scanner for OpenClaw/ClawHub skills (prompt injection, credential reads, remote-exec installs, persistence) plus MCP mode (`npx ironheights` / `ironheights mcp`); early-stage, rule-based. |
+| [arthi-arumugam-git/caelo](https://github.com/arthi-arumugam-git/caelo) | Free, local secret/security scanner for AI-built apps; finds exposed API keys, Supabase service-role keys, browser-bundled secrets, open Firebase rules, and committed .env files. Exposes `roast_project` over stdio (`npx -y caelo --mcp`). |
 
 ## 📝 Collaboration
 
