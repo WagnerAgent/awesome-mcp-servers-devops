@@ -352,6 +352,7 @@ Tools for executing commands or interacting with local environments safely.
 | [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) | Node.js Docker sandbox. |
 | [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) | Access APIs from OpenAPI specs. |
 | [Nova Code Interpreter (CIVAI)](https://github.com/civai-technologies/code-interpreter-agent-mcp-by-nova-civai) | Hosted remote MCP (Streamable HTTP) sandbox for code execution; Nova account required. |
+| [Sandscale MCP](https://sandscale.dev/sandboxes/mcp) | Hosted remote MCP (Streamable HTTP, OAuth 2.1) that runs commands in a Firecracker microVM sandbox per task, with an audit log; Sandscale account required (free plan). |
 
 ## 🤖 Coding Agents
 
