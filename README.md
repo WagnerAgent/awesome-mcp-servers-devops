@@ -641,6 +641,7 @@ AWS also provides a [Prometheus MCP Server](https://awslabs.github.io/mcp/server
 
 | Repo | Notes |
 |------|-------|
+| [12happyhq/12happy-mcp](https://github.com/12happyhq/12happy-mcp) | 12happy uptime monitoring (official): create monitors, read incidents, uptime and response times, and open maintenance windows during deploys. stdio, API-key auth; free plan available. |
 | [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) | Dynatrace monitoring integration. |
 | [fclairamb/solidping](https://github.com/fclairamb/solidping) | Self-hostable uptime monitor. Create, run and diagnose checks across 43 types, read incidents, manage status pages. Remote MCP (OAuth 2.1) + stdio. |
 | [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) | Last9 observability. |
