@@ -672,6 +672,7 @@ Inspect production AI traces and compare evaluation results during agent release
 | **Requires** | Noveum account with OAuth or a Bearer API key; free and paid plans |
 
 ## 🔒 Security
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - All-in-one offensive security, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, and 29-protocol network enumeration MCP server (160 tools; zero-install Streamable HTTP at `https://mcp.insom.ai/mcp` + `npx`/`uvx` bridge, 50 free credits).
 
 ### Snyk
 
